@@ -1,6 +1,6 @@
 #include<stdio.h>
 #include<math.h>
-//f(1)*(b-a)/n +..+ f(n)*(b-a)/n
+
 
 double f(double x) {
 	return  - log10(1.0 / x) + sin(x);
