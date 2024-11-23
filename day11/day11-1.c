@@ -1,13 +1,7 @@
 #include<stdio.h>
 #include<math.h>
 
-/*int find_d(int a, int b, int c) {
-	int d;
-	d = b * b - 4 * a * c;
-	return d;
-}
 
-float find_x(int a, int b, )*/
 
 int main() {
 	int a, b, c, D;
